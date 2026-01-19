@@ -1,0 +1,24 @@
+{
+  "name": "com.umbraeternal.core",
+  "version": "1.0.0",
+  "displayName": "Umbra Eternal Core Systems",
+  "description": "Core systems and architecture for Umbra Eternal RPG",
+  "unity": "2022.3",
+  "unityRelease": "0f1",
+  "keywords": [
+    "rpg",
+    "gameplay",
+    "architecture",
+    "umbra eternal"
+  ],
+  "author": {
+    "name": "Umbra Eternal Team",
+    "email": "dev@umbraeternal.com"
+  },
+  "dependencies": {
+    "com.unity.addressables": "1.21.12",
+    "com.unity.localization": "1.3.2",
+    "com.unity.test-framework": "1.1.33",
+    "com.unity.inputsystem": "1.7.0"
+  }
+}
